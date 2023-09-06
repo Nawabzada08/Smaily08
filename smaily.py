@@ -1,4 +1,4 @@
-import os, sys, requests, re, random, time
+kiimport os, sys, requests, re, random, time
 import datetime
 import getpass
 from os import system as psl
